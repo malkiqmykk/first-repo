@@ -1,3 +1,2 @@
 # first-repo
-This will make a conflict
-making some changes to this file :)
+I have a new branch and i like it!
